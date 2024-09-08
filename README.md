@@ -1,18 +1,33 @@
-Hi, I'm Nick 👋
+<h1 align="left">Hey, I'm Nick 👋</h1>
 
-I'm an IT student passionate about developing software applications to solve real-world problems.
+###
 
-🔧 Technologies & Skills:
+<p align="center">I'm an IT student passionate about developing software applications to solve real-world problems and help others.</p>
 
-    Languages: Python, Visual Basic, C
-    Databases: Microsoft SQL, MySQL
-    Operating Systems: Windows, Linux basics
-    Version Control: Git, GitHub
+###
 
-🌱 What I'm learning:
+<h2 align="left">About me</h2>
 
-I'm currently Learning C and the basics of system analysis and design.
+###
 
-📫 How to reach me:
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C and System Analysis and Design.<br>🎯 Goals: Secure an internship where I can gain experience and finish my degree.<br>🎲 Fun fact: C is a pain.</p>
 
-    @zelda3258 on Discord
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
