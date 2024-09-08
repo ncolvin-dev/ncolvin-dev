@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm an IT student passionate about developing software applications to help others solve real-world problems.</p>
+<p align="center">I'm an IT student passionate about developing software applications to help others and solve real-world problems.</p>
 
 ###
 
