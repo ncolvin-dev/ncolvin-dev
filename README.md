@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C and System Analysis and Design.<br>🎯 Goals: Secure an internship where I can gain experience and finish my degree.<br>🎲 Fun fact: C is a pain.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C and System Analysis and Design.<br>🎯 Goals: Secure an internship where I can gain experience and finish my degree.</p>
 
 ###
 
