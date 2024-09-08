@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there, I'm Nick 👋
 
-<!--
-**ncolvin-dev/ncolvin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student passionate about developing software applications to solve real-world problems. Currently, I'm exploring different technologies to build a strong foundation for my future career in software engineering and IT.
+🔧 Technologies & Skills:
 
-Here are some ideas to get you started:
+    Languages: Python, Visual Basic, C
+    Databases: Microsoft SQL, MySQL
+    Operating Systems: Linux basics
+    Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm learning:
+
+I'm currently expanding my knowledge in software development and exploring more advanced database management, software engineering principles, and web development technologies.
+🚀 Goals:
+
+    Secure an internship where I can apply my technical skills and gain more industry experience.
+    Continue improving my coding skills by contributing to open-source projects/Working on personal Projects.
+    Build software solutions that help people.
+
+📫 How to reach me:
+
+    LinkedIn
+    Email
+
+Feel free to check out my projects below and connect with me!
