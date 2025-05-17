@@ -2,8 +2,6 @@
 
 ###
 
-<p align="center">I'm an IT student passionate about developing software applications</p>
-
 ###
 
 <h2 align="left">About me</h2>
